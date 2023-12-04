@@ -7,7 +7,7 @@
 #
 # All rights reserved.
 #
-
+import math
 import random
 from YukkiMusic.utils.formatters import time_to_seconds
 from pyrogram.types import InlineKeyboardButton
